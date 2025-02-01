@@ -3,9 +3,9 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb",
     "window": {
-        "title": "Bubble Lodge",
-        "width": 816,
-        "height": 624,
+        "title": "Section 1",
+        "width": 1280,
+        "height": 720,
         "position": "center",
         "icon": "icon/icon.png"
     }
